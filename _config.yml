@@ -1,6 +1,6 @@
 name: sarahbrunscreative
 favicon: null
-layout_spectrum: 0.487612638855353
+layout_spectrum: 1
 typography_spectrum: 0.8521987551357597
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#02b675'
+    - '#fefffe'
+    - '#252525'
+    - '#eea10c'
+    - '#e6001c'
   brandStrength: 0.0857740759383887
   lightness: 0.6613085067365319
   saturation: 0.2744785649701953
